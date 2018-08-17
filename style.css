@@ -1,0 +1,45 @@
+.navbar-brand  {
+    font-family: 'Orbitron';font-size: 22px;
+    color: #4169E1;
+}
+
+body {
+    background-image: url(pow-star.png);
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+}
+
+.card-header {
+    color: 	#4169E1;
+    font-size: 18px;
+    font-family: 'Orbitron';
+    border: solid grey 2px;
+}
+
+.card-body{
+    background-image: url(pow-star.png);
+    border: solid grey 2px;
+    display: inline-block;
+    
+}
+
+.card-container {
+    display: inline-block;
+    padding: 12px;
+}
+
+#brand {
+    color: 	#4169E1;
+}
+
+h3 {
+    color: 	#4169E1;
+}
+
+.center-butn {
+    text-align: center;
+}
